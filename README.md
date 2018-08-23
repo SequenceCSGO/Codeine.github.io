@@ -1,2 +1,2 @@
 # Codeine.github.io
-WEbsite
+Website
